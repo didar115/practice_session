@@ -1,0 +1,43 @@
+body {
+	font-family: "Roboto", sans-serif;
+}
+
+h1 {
+	font-size: 60px;
+}
+
+#color {
+	color: orange;
+}
+p {
+	margin-bottom: 50px;
+	font-size: 20px;
+}
+
+span {
+	color: black;
+}
+
+.flex {
+	display: flex;
+}
+
+.divided {
+	width: 50%;
+}
+
+.text {
+	padding-left: 90px;
+	padding-top: 90px;
+}
+.divided img {
+	width: 100%;
+}
+a {
+	padding: 15px 40px;
+	background-image: linear-gradient(orange, tomato);
+	text-decoration: none;
+	color: white;
+	font-weight: 600;
+	border-radius: 10px;
+}
